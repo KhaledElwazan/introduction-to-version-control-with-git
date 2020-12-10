@@ -1,5 +1,5 @@
 \beamer@sectionintoc {1}{Background}{3}{0}{1}
-\beamer@sectionintoc {2}{History}{7}{0}{2}
-\beamer@sectionintoc {3}{Main and Essential Features}{9}{0}{3}
-\beamer@sectionintoc {4}{The First of Many}{21}{0}{4}
-\beamer@sectionintoc {5}{The Bibliography}{24}{0}{5}
+\beamer@sectionintoc {2}{History}{6}{0}{2}
+\beamer@sectionintoc {3}{Main and Essential Features}{8}{0}{3}
+\beamer@sectionintoc {4}{The First of Many}{19}{0}{4}
+\beamer@sectionintoc {5}{The Bibliography}{22}{0}{5}
