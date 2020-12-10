@@ -260,6 +260,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemewhale.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemewhale.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 INPUT /home/khaled/Workspace/LaTeX/introduction-to-git/main.aux
@@ -269,6 +271,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/grfext/grfext.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/grfext/grfext.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
@@ -350,6 +354,9 @@ INPUT /home/khaled/Workspace/LaTeX/introduction-to-git/images/Screenshot from 20
 INPUT /home/khaled/Workspace/LaTeX/introduction-to-git/images/Screenshot from 2020-12-10 13-35-57.png
 INPUT /home/khaled/Workspace/LaTeX/introduction-to-git/images/Screenshot from 2020-12-10 13-35-57.png
 INPUT /home/khaled/Workspace/LaTeX/introduction-to-git/images/Screenshot from 2020-12-10 13-35-57.png
+INPUT /home/khaled/Workspace/LaTeX/introduction-to-git/main.bbl
+INPUT /home/khaled/Workspace/LaTeX/introduction-to-git/main.bbl
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmssi12.tfm
 OUTPUT /home/khaled/Workspace/LaTeX/introduction-to-git/main.nav
 OUTPUT /home/khaled/Workspace/LaTeX/introduction-to-git/main.toc
 OUTPUT /home/khaled/Workspace/LaTeX/introduction-to-git/main.snm
@@ -360,3 +367,4 @@ INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb

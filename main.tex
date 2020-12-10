@@ -3,7 +3,8 @@
 
 \usetheme{Warsaw}
 \usepackage{multirow}
-\title{Introduction to Version Control with Git}
+\usepackage[numbers]{natbib}
+\title{Introduction to Version Control with Git \cite{loeliger2012version}}
 
 \author{Khaled El-Wazan \thanks{khaled\_elwazan@alex-sci.edu.eg}}
 
@@ -51,15 +52,16 @@
         \item The main issues with projects.
         \item Version control to the rescue.
 
-              \pause
-              \begin{definition}
-                  A tool that manages and tracks different versions of software or other content is referred
-                  to generically as a version control system (VCS).
-              \end{definition}
+
               \pause
         \item Develop and maintain a repository of content, provide access to historical editions
               of each datum, and record all changes in a log.
     \end{enumerate}
+    \pause
+    \begin{definition}
+        A tool that manages and tracks different versions of software or other content is referred
+        to generically as a version control system (VCS).
+    \end{definition}
 
 \end{frame}
 
@@ -117,12 +119,10 @@
 
 \end{frame}
 
-\begin{frame}
-    \frametitle{The Bibliography}
-\bibliography{refences}
-
-    
-
+\begin{frame}[allowframebreaks]
+    \frametitle{References}
+    \bibliographystyle{IEEEtranN}
+    \bibliography{references}
 \end{frame}
 
 
